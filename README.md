@@ -26,3 +26,6 @@ A json format of our server parameters
 ## website.PNG
 Output of the link created for the web app.
  
+## Site link 
+http://serve-webap-ss2ojgq4hokj-1986944039.us-east-1.elb.amazonaws.com/
+** site might not work because I have to delete the resources**
