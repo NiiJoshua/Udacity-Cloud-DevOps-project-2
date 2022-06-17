@@ -1,0 +1,23 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "Udagram"
+    },
+    {
+        "ParameterKey": "ServerImage",
+        "ParameterValue": "ami-052efd3df9dad4825"
+    },
+    {
+        "ParameterKey": "ServerVolume",
+        "ParameterValue": "10"
+    },
+    {
+        "ParameterKey": "MaxiSize",
+        "ParameterValue": "4"
+    },
+    {
+        "ParameterKey": "MiniSize",
+        "ParameterValue": "4"
+    }
+   
+]
